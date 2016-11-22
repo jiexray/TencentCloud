@@ -24,3 +24,9 @@ help      -> Python's own help system.
 object?   -> Details about 'object', use 'object??' for extra details.
 ```
 *Good*
+
+## Tips:
+* 1. Open ipython notebook without browser
+```
+ipython notebook --no-browser
+```
