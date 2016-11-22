@@ -1,3 +1,5 @@
+*If you are the rest users, read the item from 2-4(under title `Install Anaconda on Tencent Cloud for all users`)*
+
 # Install Anaconda on Tencent Cloud for One User
 * 1. Download [anaconda](https://www.continuum.io/downloads)
 * 2. Upload anaconda package to TC via scp
@@ -31,7 +33,7 @@ object?   -> Details about 'object', use 'object??' for extra details.
 ipython notebook --no-browser
 ```
 
-# Install Anaconda on Tencent Cloud for all users
+# Install Anaconda on Tencent Cloud for All Users
 * 1. Let the installer put the folder in a common place(/opt)
 ```
 Install path: /opt/anaconda2
